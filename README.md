@@ -6,4 +6,4 @@ Contributions Welcome! You can contribute in the following ways.
 - Pull Request - Fix a bug or typo Refactoring the code
 - Share - Share your thoughts on blogs, Twitter, etc.
 
-For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
+For more details, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
