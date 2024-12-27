@@ -25,12 +25,12 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## Installing dependencies
 
-The `evacuate` project uses [Yarn](https://yarnpkg.com/) as its package manager. Developers should install Yarn.
+The `evacuate` project uses [pnpm](https://pnpm.io/) as its package manager. Developers should install pnpm.
 
 Then install the dependencies with the following command
 
 ```bash
-yarn install
+pnpm install
 ```
 
 ## Submitting Changes
@@ -47,7 +47,7 @@ We use [Vitest](https://vitest.dev/) for testing. To run the tests, use the foll
 > **Note:** For some source code, tests may not exist. Please check each time.
 
 ```bash
-yarn test
+pnpm test
 ```
 
 ## Style Guide
@@ -56,13 +56,13 @@ yarn test
 - Use Biome to format your code. To format the code, execute the following command
 
   ```bash
-  yarn format
+  pnpm format
   ```
 
 - Ensure your code is linted by running the following command
 
   ```bash
-  yarn lint
+  pnpm lint
   ```
 
 ## Additional Resources
